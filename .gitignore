@@ -1,0 +1,24 @@
+# Maven
+target/
+*.log
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Logs
+logs/
+
+# Test reports
+surefire-reports/
+
+# Optional: Lombok
+.lombok
